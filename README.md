@@ -1,2 +1,2 @@
-# FPNet
+# FPTNet
 The code will be released.
